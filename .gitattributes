@@ -1,0 +1,3 @@
+﻿# Mark static frontend assets as vendored so GitHub Linguist
+# correctly detects Python as the primary language
+Chinese-Mystery-Box/static/* linguist-vendored
